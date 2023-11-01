@@ -1,7 +1,7 @@
 # MSE_Spring2024
 The materials for the Spring Mathematics in Materials course at the UTK MSE
 
-MATHEMATICAL AND NUMERICAL PROBLEM SOLVING 
+MATHEMATICAL, NUMERICAL, AND CAUSAL PROBLEM SOLVING 
 
 MSE 510
 
