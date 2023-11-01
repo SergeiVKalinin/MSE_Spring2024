@@ -18,7 +18,7 @@ In the mid-20th century, Eugene Wigner illuminated the deep relationship between
 4.	Grasp the nuances of Bayesian methods, learning how to weave together data with prior knowledge.
 5.	Explore the intricate landscape of causal analysis within the ML spectrum.
 6.	Develop a solid understanding of probabilistic techniques for decision-making in uncertain scenarios.
-7.	
+	
 If you are an undergraduate student, this course can give you an early edge for adopting Python in the industrial role or graduate school at UTK or elsewhere. If you are a graduate student - welcome to the journey spanning mathematics, machine learning, and human intuition in the materials world!
 
 Contact:  Sergei V. Kalinin – sergei2@utk.edu
